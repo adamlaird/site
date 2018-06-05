@@ -1,3 +1,4 @@
 theme:  jekyll-theme-tactile
-url:  "https://adamlaird.github.io/site/"
+url:  "https://adamlaird.github.io"
 baseurl:  "/site"
+title: Site
