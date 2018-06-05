@@ -1,3 +1,4 @@
+# Site Settings
 url: https://adamlaird.github.io/site/
 baseurl: "/site"
 theme: jekyll-theme-cayman
